@@ -2,7 +2,7 @@
 Make and train your Own AI model with Ollama and Unsloth
 
 Run AI Model the AI Weights Then Run Train Model
-
+In Train Model You need Unsloth and Python and those goodies follow a turioul ill add a requirements.txt later but you do need a hugging face token
 #THIS WILL TAKE YOUR ENTIRE WEEKEND IT TAKES ~12 HOURS TO CREATE THE DATASET and ~45 MINUTES TO TRAIN...
 
 also run this to create the model
