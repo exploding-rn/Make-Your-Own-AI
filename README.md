@@ -7,6 +7,8 @@ In Train Model You need Unsloth and Python and those goodies follow a turioul il
 
 # AFTER TRAINING
 run this follow the MORE INTRUCTIONS below to fine tune
+
+
 $modelfile = @"
 FROM ./clint-merged
 SYSTEM """ {REPLACE HERE WITH YOUR SYS PROMPT}  Keep your answers concise and do not repeat yourself. """
