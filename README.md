@@ -5,8 +5,8 @@ Train a custom AI model in ~1 day using your own data, Unsloth, and Ollama.
 ## What This Does
 
 This project guides you through:
-1. **Creating a custom dataset** from your own data (~45 min)
-2. **Fine-tuning Gemma 9B** using that dataset (1-24 hours depending on hardware)
+1. **Creating a custom dataset** from your own data (~1-24 hours depending on paramters)
+2. **Fine-tuning Gemma 9B** using that dataset (~45 minutes depending on hardware)
 3. **Running your model locally** with Ollama
 
 No complex ML knowledge required — just follow the steps.
